@@ -9,7 +9,7 @@ Outside of work, I enjoy outdoor activities like hiking, biking, and recreationa
 
 ## 🔭 Recent projects
 
-[scrumdinger](https://github.com/angrieralien/scrumdinger) An app that helps teams manage their daily scrums by keeping track of time.
+- [scrumdinger](https://github.com/angrieralien/scrumdinger) An app that helps teams manage their daily scrums by keeping track of time.
 
 ## 🌱 I’m currently learning
 
