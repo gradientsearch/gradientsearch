@@ -9,7 +9,8 @@ Outside of work, I enjoy outdoor activities like hiking, biking, and recreationa
 
 ## 🔭 Recent projects
 
-- [scrumdinger](https://github.com/angrieralien/scrumdinger) An app that helps teams manage their daily scrums by keeping track of time.
+- [scrumdinger](https://github.com/gradientsearch/scrumdinger) An app that helps teams manage their daily scrums by keeping track of time.
+- [gradientsearch.dev](https://github.com/gradientsearch/gradientsearch.dev) My personal website.
 
 ## 🌱 I’m currently learning
 
@@ -19,5 +20,5 @@ Outside of work, I enjoy outdoor activities like hiking, biking, and recreationa
 
 ## ⚡ Fun facts
 - I have a miniature dachshund named Frank.🐕
-- I play the acoustic guitar daily. 🎸
+- I play the acoustic guitar. 🎸
 - My motto is `Be typing cat!` <image src="https://github.com/user-attachments/assets/a2ccfe59-e923-4b39-ada5-b85d074255e8" width="25px"> 
