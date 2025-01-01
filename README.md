@@ -9,8 +9,9 @@ Outside of work, I enjoy outdoor activities like hiking, biking, and recreationa
 
 ## 🔭 Recent projects
 
-- [scrumdinger](https://github.com/gradientsearch/scrumdinger) An app that helps teams manage their daily scrums by keeping track of time.
+- [vault-plugin-secrets-pwmanager](https://github.com/gradientsearch/vault-plugin-secrets-pwmanager) A plugin providing a comprehensive solution designed to integrate HashiCorp Vault's advanced secrets management capabilities into a user-friendly password management system.
 - [gradientsearch.dev](https://github.com/gradientsearch/gradientsearch.dev) My personal website.
+- [scrumdinger](https://github.com/gradientsearch/scrumdinger) An app that helps teams manage their daily scrums by keeping track of time.
 
 ## 🌱 I’m currently learning
 
