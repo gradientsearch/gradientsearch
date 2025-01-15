@@ -8,8 +8,9 @@ Outside of work, I enjoy outdoor activities like hiking, biking, and recreationa
 
 
 ## 🔭 Current projects
-
-- [WebCryptoUI](https://github.com/gradientsearch/WebCryptoUI) Secure, local encryption/decryption using Web Crypto API. Enter symmetric or asymmetric keys in textboxes to securely process text data directly in your browser, ensuring privacy as no data is ever transmitted to or processed by any server. 
+- [vault-plugin-secrets-pwmanager](https://github.com/gradientsearch/vault-plugin-secrets-pwmanager) A plugin providing a comprehensive solution designed to integrate HashiCorp Vault's advanced secrets management capabilities into a user-friendly password management system.
+- [WebCryptoUI](https://github.com/gradientsearch/WebCryptoUI) Secure, local encryption/decryption using Web Crypto API. Enter symmetric or asymmetric keys in textboxes to securely process text data directly in your browser, ensuring privacy as no data is ever transmitted to or processed by any server.
+- [GitEmojis](https://github.com/gradientsearch/gitemojis.com) a web app that showcases all GitHub emojis, organized by category and subcategory. 
 - [gradientsearch.dev](https://github.com/gradientsearch/gradientsearch.dev) My personal website.
 
 ## 🌱 I’m currently learning
