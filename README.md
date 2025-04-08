@@ -15,8 +15,8 @@ Outside of work, I enjoy outdoor activities like hiking, biking, and recreationa
 
 ## 🌱 I’m currently learning
 
-- [Ultimate Go](https://www.ardanlabs.com/training/ultimate-go/) took this course a few years ago - refreshing go language mechanics, design philosophies and guidelines prioritizing on consistency, integrity, readability and simplicity. 
-- [HashiCorp Vault](https://www.vaultproject.io/) I spent time at Equinix deploying Vault and configuring Kubernetes Auth mounts for a fleet of clusters. Now I'm diving into other mounts and features i.e. Signed SSH Certificates, Transit engine.
+- [Ultimate Go: Software Design with Kubernetes](https://www.ardanlabs.com/training/ultimate-go/) This course teaches you how to build production-level services in Go, leveraging the power of a Domain Driven, Data Oriented Architecture deployed in Kubernetes.
+- [DeepLearning.AI](https://www.deeplearning.ai/courses/) Various courses.
 - [Quadlets](https://www.redhat.com/en/blog/multi-container-application-podman-quadlet) Quadlet is an opinionated tool for easily running podman system containers under systemd in an optimal way. 
 
 ## ⚡ Fun facts
