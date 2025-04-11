@@ -8,6 +8,7 @@ Outside of work, I enjoy outdoor activities like hiking, biking, and recreationa
 
 
 ## 🔭 Current projects
+- [gus](https://github.com/gradientsearch/gus) Prototype chatbot backend for interacting with LLMs like LLaMA. Focused on session handling, context management, and scalable APIs using Domain-Driven, Data-Oriented Architecture. Built in Go for exploring real-world chatbot design.
 - [vault-plugin-secrets-pwmanager](https://github.com/gradientsearch/vault-plugin-secrets-pwmanager) A plugin providing a comprehensive solution designed to integrate HashiCorp Vault's advanced secrets management capabilities into a user-friendly password management system.
 - [WebCryptoUI](https://github.com/gradientsearch/WebCryptoUI) Secure, local encryption/decryption using Web Crypto API. Enter symmetric or asymmetric keys in textboxes to securely process text data directly in your browser, ensuring privacy as no data is ever transmitted to or processed by any server.
 - [GitEmojis](https://github.com/gradientsearch/gitemojis.com) a web app that showcases all GitHub emojis, organized by category and subcategory. 
